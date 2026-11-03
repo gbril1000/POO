@@ -14,19 +14,13 @@ Inicialmente, foi criado um repositório público denominado `POO` na conta pess
 
 A criação do repositório permitiu estabelecer um ambiente remoto para o armazenamento do projeto, possibilitando sua atualização e consulta por meio da plataforma GitHub.
 
-![Criação do repositório](imagens/repositorio.png)
-
-*Figura 1 – Repositório público POO criado no GitHub.*
-
 ## 3. Clonagem do repositório
 
 Após a criação do repositório remoto, foi realizada sua clonagem para o ambiente local. Esse procedimento permitiu obter uma cópia dos arquivos do repositório no computador, possibilitando a realização das modificações necessárias.
 
 A clonagem também estabeleceu a conexão entre o repositório local e o remoto, permitindo que as alterações realizadas fossem posteriormente registradas e enviadas ao GitHub.
 
-![Clonagem do repositório](imagens/clone.png)
-
-*Figura 2 – Clonagem do repositório remoto para o ambiente local.*
+![Clonagem do repositório](imagens/gitClone.png)
 
 ## 4. Edição e versionamento dos arquivos
 
@@ -36,9 +30,7 @@ As alterações foram registradas por meio de commits, que representam pontos es
 
 Após o registro das alterações, os commits foram enviados ao repositório remoto, permitindo que as modificações realizadas localmente também estivessem disponíveis no GitHub.
 
-![Versionamento dos arquivos](imagens/versionamento.png)
-
-*Figura 3 – Registro e envio das alterações ao repositório remoto.*
+![Versionamento dos arquivos](imagens/gitCommit.png)
 
 ## 5. Criação e alteração de branches
 
@@ -50,9 +42,7 @@ Na branch criada, foi realizada uma alteração em um arquivo do projeto. Poster
 
 Dessa forma, foi possível demonstrar a criação, a utilização e o versionamento de uma branch independente.
 
-![Criação da branch](imagens/branch.png)
-
-*Figura 4 – Criação e modificação da branch desenvolvimento.*
+![Criação da branch](imagens/gitBranch.png)
 
 ## 6. Histórico de commits e branches
 
@@ -62,9 +52,7 @@ Por meio do GitHub, foi possível visualizar os commits realizados e verificar a
 
 A análise do histórico possibilitou comprovar o registro das alterações e a organização do projeto em diferentes linhas de desenvolvimento.
 
-![Histórico de commits](imagens/historico.png)
-
-*Figura 5 – Histórico de commits e branches disponíveis no GitHub.*
+![Histórico de commits](imagens/gitHistorico.png)
 
 ## 7. Conclusão
 
